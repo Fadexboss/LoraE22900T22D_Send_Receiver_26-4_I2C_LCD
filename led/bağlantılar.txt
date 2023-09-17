@@ -1,0 +1,5 @@
+LED ekran , Arduino uno
+SCL - A5
+SDA - A4
+VCC - 5V
+GND - GND
